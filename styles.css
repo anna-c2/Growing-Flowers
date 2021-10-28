@@ -1,0 +1,51 @@
+body {
+    background-color: #fcf4cc;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+button {
+    margin: 20px;
+    border: none;
+    padding: 10px;
+    background: #ad9e93;
+
+}
+
+button:hover{
+    background-color: #e3d7cf;
+}
+
+img {
+    height: 265px;
+}
+
+.main {
+    border: 1px solid black;
+    padding: 50px;
+    background-color: #fffee6;
+}
+
+.title {
+    margin: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: -2px 3px #b0a99b;
+    padding: 20px;
+    font-size: 50px;
+    color: #33312f;
+
+}
+
+.buttons,
+.pot {
+    text-align: center;
+}
+
+.warning{
+    border: 1px solid black;
+    background:#ffd4f7;
+    padding:10px;
+    text-align:center;
+}
